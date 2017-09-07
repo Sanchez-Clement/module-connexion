@@ -1,0 +1,12 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#formulaire {
+padding: 10px;
+}
+
+#formulaire label {
+  color: white;
+}
